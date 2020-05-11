@@ -9,6 +9,10 @@ import javax.crypto.spec.SecretKeySpec;
 
 import java.math.BigInteger;
 
+/**
+ * @author Benetekt
+ */
+
 public class Main {
 	
 	public static void main(String[] args) {
